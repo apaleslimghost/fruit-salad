@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "Get a random unused fruit",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "bin": {
+    "fruit-salad": "bin.js"
   },
   "repository": {
     "type": "git",
